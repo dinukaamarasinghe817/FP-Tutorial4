@@ -34,7 +34,7 @@ object tutorial4{
                             }
 
                             println(formatNames("Benny",toUpper(_)))
-                            print(formatNames("N",toUpper(_))+formatNames("iroshan",toLower(_)))
+                            print(formatNames("Ni",toUpper(_))+formatNames("roshan",toLower(_)))
                             println("")
                             println(formatNames("Saman",toLower(_)))
                             println(formatNames("K",toUpper(_))+formatNames("umar",toLower(_))+formatNames("a",toUpper(_)))
